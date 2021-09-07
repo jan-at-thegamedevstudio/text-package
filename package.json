@@ -1,0 +1,19 @@
+{
+  "name": "@test-name/text-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jan-at-thegamedevstudio/text-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jan-at-thegamedevstudio/text-package/issues"
+  },
+  "homepage": "https://github.com/jan-at-thegamedevstudio/text-package#readme"
+}

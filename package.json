@@ -15,5 +15,6 @@
   "homepage": "https://github.com/jan-at-thegamedevstudio/text-package#readme",
   "publishConfig": {
     "@jan-at-thegamedevstudio:registry": "https://npm.pkg.github.com"
-  }
+  },
+  "private": true
 }
